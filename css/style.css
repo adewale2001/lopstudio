@@ -1,0 +1,101 @@
+.my_nav{
+    margin-inline-start: auto;
+    padding-right: 150px; 
+    text-align: center
+} 
+.my_height{
+    height: 100px;
+}
+.nav-link{
+    color: white!important;
+    font-family: auto;
+    margin-left: 10px;
+}
+.btn_color{
+    background-color: #fff;
+}
+.clock{
+    color: white;
+    text-decoration: none;
+    font-family: fantasy;
+    letter-spacing: 6px;
+    font-size: 30px;
+}
+.one{
+    color: white;
+    border: 2px solid white;
+    width: 300px;
+    margin-top: 70px;
+    height: 165px;
+    letter-spacing: 7.8px;
+    line-height: 1.9;
+    text-align: center;
+}
+.two{
+    border: 2px solid white;
+    background-color: white;
+    margin-top: 200px;
+    height: 371px;
+}
+.three{
+   width:%;
+}
+h1{
+    font-family: monospace;
+    text-align: center;
+    margin-top: 80px;
+}
+.four{
+    margin-left: 30px;
+    text-align: center;
+    color: gray;
+}
+h2{
+    font-family: monospace;
+    letter-spacing: 2.2px;
+    text-align: center;
+}
+.five{
+    width: 95px;
+    font-family: monospace;
+    height: 35px;
+}
+.text-right{
+    float: right;
+}
+.carousel-caption{
+    color: white;
+}
+.six{
+    height: 380px;
+    width: 100%;
+}
+.paragraph{
+    position: relative;
+    top: -74px;
+    color: #fff;
+    left: 49px;
+    letter-spacing: 2.6px;
+    font-size: 20px;
+}
+.clocks{
+    color: white;
+    text-decoration: none;
+    font-family: fantasy;
+    letter-spacing: 6px;
+    font-size: 20px;
+    text-align: center;
+}
+.last{
+    list-style-type: none;
+    display: flex;
+    color: white;
+    text-align: center;
+}
+p{
+    margin-left: 20px;
+    margin-top: 10px; 
+}
+h6{
+    text-align: center;
+}

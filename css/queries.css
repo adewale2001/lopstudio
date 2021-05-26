@@ -1,0 +1,19 @@
+@media only screen and (max-width: 991px){
+    .three{
+         width: 100% !important;
+         height: 300px !important;
+     }
+     
+     .last{
+         display: flex;
+         flex-direction: column;
+     }
+     .my-kit{
+        display: flex  !important;
+        flex-direction: column-reverse !important;
+    }
+    .two{
+        margin-top: 20px;
+    }
+    
+ }
